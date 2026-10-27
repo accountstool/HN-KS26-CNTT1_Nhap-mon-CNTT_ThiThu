@@ -16,7 +16,7 @@ Lệnh liệt kê toàn bộ dự án (kể cả file ẩn):
 ls -aR
 ```
 
-- [x] Tổ chức lại cây thư mục và đổi tên file sang snake_case
+[x] Tổ chức lại cây thư mục và đổi tên file sang snake_case
 - [x] Lọc log và tạo các file báo cáo
 - [ ] Triển khai website lên hosting
 
